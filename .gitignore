@@ -1,8 +1,12 @@
 ## gitignore for R/Rstudio projects
+
+downloads/
+
 # allows for collaboration by keeping dev environment files out of git
 # History files
 .Rhistory
 .Rapp.history
+.Rprofile
 
 # Session Data files
 .RData
@@ -14,7 +18,7 @@
 .Renviron
 
 # package management with renv (if using)
-renv/**
+renv/
 
 # Example code in package build process
 *-Ex.R

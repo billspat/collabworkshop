@@ -1,3 +1,3 @@
 # collabworkshop
 
-collaborators: [from github]
+collaborators: [from github], [from ~/tmp]

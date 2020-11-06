@@ -1,3 +1,10 @@
+## TITLE:         Workshop main file
+## AUTHORS:       Pat Bills
+
+## DATA:          NEON organismal data pull (https://drive.google.com/drive/folders/10vjvS6E3RoJfmP-w8nCVDKMPqP20yvfC)
+## PROJECT:       Macrosystems biodiversity project Workshop  
+## DATE:          initiated: Nov 3, 2020
+
 library(readr)
 library(dplyr)
 

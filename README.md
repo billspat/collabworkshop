@@ -1,3 +1,3 @@
 # collabworkshop
 
-collaborators: [from code folder]
+collaborators: [from code folder], [from github]
